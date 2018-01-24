@@ -1,3 +1,10 @@
+/*
+ * The program checks for the motion and blows alarm until the PIR sensor RESET.
+ * The RESET setting of PIR sensor can be modified through the two potentiometer given on the module.
+ * 
+ * Author: Anuj Jain
+ * @ianuj03
+ */
 #define PIR 7
 #define BUZZER 8
 void setup(){
