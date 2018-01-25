@@ -4,6 +4,16 @@ Interfacing PIR/Motion sensor with Arduino UNO.
 If the motion is detected then blow alarm. 
 PIR acronym for Passive Infrared, checks for the infrared light and hence widely used  as a motion sensor.
 
+### Compnents:
+Name | Quantity
+-----|---------
+Arduino Board* | 1
+PIR | 1
+Buzzer | 1
+Jumper Wire | 1
+BreadBoard | 1
+
+*Any Board will work.
 ### Connection:
 ```
 Vcc- 5V Power supply.
